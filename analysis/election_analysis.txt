@@ -5,13 +5,12 @@ Total Votes: 369,711
 -------------------------
 
 County Votes:
-Jefferson: 10.5% (0)
-Denver: 82.8% (0)
-Arapahoe: 6.7% (0)
 -------------------------
-Winner: Arapahoe
-Winning Vote Count: 24,801
-Winning Percentage: 6.7%
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+-------------------------
+Largest county: Denver
 -------------------------
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
