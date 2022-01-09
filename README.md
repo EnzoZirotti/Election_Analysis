@@ -17,4 +17,10 @@ The purpose of this of this analysis is to figure out The voter turnout for each
   - The Winning Candidate is Diana Degette with 272,892 votes that make up 73.8% of all votes.
 
 
-![Screenshot](/Candidate_results.png)
+![Screenshot](/Candidate_analysis.png)
+
+## Election-Audit Summary:
+
+With this script and some modifications you are able to look through a csv file and go through to see how many counties and candidates there are and how many votes there are for each. If you modified this futher you could analyze how many votes from each county were for which candidate which would let you further understand the demographic for that area and how it could be better worked with. If you adjusted the different rows you would be able to find out more data if more data would be given as beyond what county but what cities or even districts had how many votes and this would be in your conditional statments. 
+
+
